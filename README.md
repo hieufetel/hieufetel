@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Hieu.<br><br>🎓 I’m a junior student at the Faculty of Electronics and Telecommunications.<br>💻 ’m currently deepening my knowledge in network protocols, wireless communication, and cybersecurity.<br>🎯 2025 Goal:  Internship or entry-level role in Network Engineer.<br><br><br>
+👋 Hi there! I'm Hieu.<br><br>🎓 I’m a junior student at the Faculty of Electronics and Telecommunications.<br>💻 ’m currently deepening my knowledge in network protocols, wireless communication, and cybersecurity.<br>🎯 2025 Goal:  Internship or entry-level role in Network Engineer.<br>💻 Network Engineer Intern @ VNPT<br><br><br>
 
 
 ## 🌐 Socials:
